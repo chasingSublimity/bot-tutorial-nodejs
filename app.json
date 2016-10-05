@@ -1,7 +1,7 @@
 {
-  "name": "Cool guy bot",
-  "description": "Basic Groupme Bot written in Node",
-  "repository": "https://github.com/petemcgrath/cool-guy-bot",
+  "name": "Andy bot",
+  "description": "Bot based on Andy Rios",
+  "repository": "https://github.com/chasingSublimity/bot-tutorial-nodejs",
   "logo": "http://www.tailgate365.com/wp-content/uploads/2011/06/tom-hanks-906.jpg",
-  "keywords": []
+  "keywords": [Property Value, Cost of Living, Housing Cost, Housing Market]
 }
